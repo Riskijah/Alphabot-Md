@@ -46,18 +46,18 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.botname = "Gicko-MD" //namabot kalian
+global.ownername = "Gicko" //nama kalian
+global.myweb = "https://chat.whatsapp.com/HZNpMkLTHsTGMpvPbgtZ09" //bebas asal jan hapus
+global.youtube = "https://youtube.com" //bebas asal jan hapus
+global.myweb2 = "https://chat.whatsapp.com/HZNpMkLTHsTGMpvPbgtZ09" //bebas
+global.email = "gipssupport@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
+global.premium = ['6283873407979'] //premium user
+global.owner = ["6283873407979"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6283873407979" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
